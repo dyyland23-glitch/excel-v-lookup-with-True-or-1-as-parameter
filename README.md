@@ -17,6 +17,8 @@ Setting the fourth argument to **`TRUE`** (or **`1`**) enables **range matching*
 
 ---
 
+![](vllokup true =1.webp)
+
 ## The Formula Breakdown
 
 ```excel
