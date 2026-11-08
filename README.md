@@ -1,4 +1,3 @@
-# excel-v-lookup-with-True-or-1-as-parameter
 
 
 # Tier-Based Volume Discounts with Excel VLOOKUP (`TRUE` / `1`)
